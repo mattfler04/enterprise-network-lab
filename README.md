@@ -77,3 +77,18 @@ Final ping tests achieved 4 successful replies with 0% packet loss across the te
 ## Project Purpose
 
 The goal of this lab was to develop hands-on experience configuring, securing, verifying, and troubleshooting a segmented enterprise network.
+
+## Project Evidence
+
+The following folders contain screenshots documenting the network configuration, testing, and troubleshooting.
+
+| Section | Evidence |
+|---|---|
+| VLAN Configuration | [View VLAN screenshots](screenshots/vlan/) |
+| Trunking | [View trunking screenshots](screenshots/trunking/) |
+| Inter-VLAN Routing | [View routing screenshots](screenshots/routing/) |
+| DHCP | [View DHCP screenshots](screenshots/dhcp/) |
+| EtherChannel and STP | [View EtherChannel and STP screenshots](etherchannel-stp/) |
+| Network Security | [View security screenshots](screenshots/security/) |
+| Troubleshooting | [View troubleshooting scenarios](screenshots/troubleshooting/) |
+| Final Verification | [View final verification screenshots](screenshots/final-verification/)
